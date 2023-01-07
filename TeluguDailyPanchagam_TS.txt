@@ -1,1 +1,13 @@
-TeluguDailyPanchagam Telangana Database
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Jan.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Feb.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Mar.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Apr.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/May.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Jun.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Jul.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Aug.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Sep.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Oct.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Nov.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Dec.zip
+https://raw.githubusercontent.com/indpDB/TeluguDailyPanchgame2023/main/Fes.zip
